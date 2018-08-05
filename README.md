@@ -10,3 +10,5 @@ Enemies first hit Players, Enemy attack against Player health.
 Then Players counterattack.
 
 Players also need to keep track of Victory Coins and Power Gems, which are two elements of the game.
+
+http://www.finalbosscardgame.com/
